@@ -1,0 +1,99 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/fluoroscopic-appendicitis---secondary.py
+inputModule3:
+  class: File
+  path: python/appendicitis-placement---secondary.py
+inputModule4:
+  class: File
+  path: python/appendicitis---secondary.py
+inputModule5:
+  class: File
+  path: python/appendicitis-peritonitis---icduncat.py
+inputModule6:
+  class: File
+  path: python/acute-appendicitis---icduncat.py
+inputModule7:
+  class: File
+  path: python/appendicitis-inflammation---primary.py
+inputModule8:
+  class: File
+  path: python/acute-appendicitis---primary.py
+inputModule9:
+  class: File
+  path: python/appendicitis-exudate---primary.py
+inputModule10:
+  class: File
+  path: python/appendicitis-inflammatory---primary.py
+inputModule11:
+  class: File
+  path: python/purulent-appendicitis---primary.py
+inputModule12:
+  class: File
+  path: python/appendicitis-serositis---primary.py
+inputModule13:
+  class: File
+  path: python/appendicitis-microabscess---primary.py
+inputModule14:
+  class: File
+  path: python/appendicitis-adhesion---primary.py
+inputModule15:
+  class: File
+  path: python/suppurative-appendicitis---primary.py
+inputModule16:
+  class: File
+  path: python/appendicitis-ulcerated---primary.py
+inputModule17:
+  class: File
+  path: python/appendicitis---primary.py
+inputModule18:
+  class: File
+  path: python/appendicitis-hyperemia---primary.py
+inputModule19:
+  class: File
+  path: python/appendicitis-erythema---primary.py
+inputModule20:
+  class: File
+  path: python/necrotic-appendicitis---primary.py
+inputModule21:
+  class: File
+  path: python/appendicitis-necrosis---primary.py
+inputModule22:
+  class: File
+  path: python/appendicitis-fibrosis---primary.py
+inputModule23:
+  class: File
+  path: python/fibrous-appendicitis---primary.py
+inputModule24:
+  class: File
+  path: python/edematous-appendicitis---primary.py
+inputModule25:
+  class: File
+  path: python/appendicitis-hemorrhage---primary.py
+inputModule26:
+  class: File
+  path: python/periappendicitis---primary.py
+inputModule27:
+  class: File
+  path: python/appendicitis-fecalith---primary.py
+inputModule28:
+  class: File
+  path: python/appendicitis-erosion---primary.py
+inputModule29:
+  class: File
+  path: python/appendicitis-perforation---primary.py
+inputModule30:
+  class: File
+  path: python/appendicitis-congestion---primary.py
+inputModule31:
+  class: File
+  path: python/appendicitis-congested---primary.py
+inputModule32:
+  class: File
+  path: python/hemorrhagic-appendicitis---primary.py
+inputModule33:
+  class: File
+  path: python/output-cases.py
